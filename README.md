@@ -1,7 +1,6 @@
 # BluMon
 dynamic monitoring of blue servers
- 
-### dependent on KitCommons 
+
 
 provides html and json renderings of current state of collection of servers
 
@@ -39,3 +38,4 @@ This is a full kitura server. To utilize it, create a main program somewhere wit
 
 
 ## Notes
+   dependent on KitCommons [https://github.com/billdonner/KitCommons](https://github.com/billdonner/KitCommons)
