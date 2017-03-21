@@ -1,5 +1,4 @@
 struct BluMon {
-
     var text = "Hello, World from BluMon!"
 }
 import Foundation
